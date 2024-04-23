@@ -1,7 +1,4 @@
 # MNIST Deblurring Project
-
-## Overview
-
 This project involves deblurring images from the MNIST dataset. The blurred version of the images is obtained through a superposition of slightly translated versions of the same image, following a random trajectory. This type of blur is intended to simulate the result of a shot taken with a shaky hand or with a long exposure time.
 
 Images are obtained from the MNIST dataset using a suitable generator provided in the attached notebook.
